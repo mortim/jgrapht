@@ -75,6 +75,7 @@ public class EppsteinKShortestPath<V, E>
     @Override
     public List<GraphPath<V, E>> getPaths(V source, V sink, int k)
     {
+        return null;
         if (k < 0) {
             throw new IllegalArgumentException("k must be non-negative");
         }

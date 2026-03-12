@@ -700,7 +700,7 @@ public class AhujaOrlinSharmaCapacitatedMinimumSpanningTree<V, E>
      * <p>
      * IDENTIFYING SUBSET DISJOINT CYCLES This is done via a heuristic which can be found here
      * {@link AhujaOrlinSharmaCyclicExchangeLocalAugmentation} @see
-     * AhujaOrlinSharmaCyclicExchangeLocalAugmentation.
+     *
      */
     private class ImprovementGraph
     {

@@ -98,6 +98,7 @@
         <webgraph-big.version>3.7.1</webgraph-big.version>
         <webgraph.version>3.6.12</webgraph.version>
         <xmlunit-core.version>2.10.3</xmlunit-core.version>
+        <sonar.organization>projet-gl-jgrapht</sonar.organization>
     </properties>
 
     <dependencyManagement>
